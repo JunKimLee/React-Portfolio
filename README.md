@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+# Also it was deployed with netlify https://junkimlee.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
